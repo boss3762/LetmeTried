@@ -37,6 +37,7 @@ food = (sum/107)*100
 vat = sum - food
 print(f"food : {food}")
 print(f"vat : {vat}")
+::elab:endcode
 
 ::elab:begintest
 107 
