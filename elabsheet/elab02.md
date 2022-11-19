@@ -23,6 +23,7 @@ Time : 6 hr(s) 56 minute(s) 40 second(s)
 ::elab:begincode blank=True
 a = int(input('Sheep : '))
 print(f'Time : {a//3600} hr(s) {a%3600//60} minute(s) {a%60} second(s)')
+::elab:endcode
 
 ::elab:begintest
 60
