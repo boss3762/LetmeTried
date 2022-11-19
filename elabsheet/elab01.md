@@ -19,14 +19,14 @@ vat : 7.0
 
 ### Example2
 <pre class="output">
-summary price : 3265
+summary price : _3265_
 food : 3051.4018691588785
 vat : 213.59813084112147
 </pre>
 
 ### Example3
 <pre class="output">
-summary price : 152.9
+summary price : _152.9_
 food : 142.89719626168224
 vat : 10.002803738317766
 </pre>
